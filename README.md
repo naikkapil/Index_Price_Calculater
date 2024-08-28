@@ -2,7 +2,9 @@
 
 ## Overview
 
-This RShiny application allows users to select and import a dataset, calculate the index price based on specific rules, and display the results as a table and chart. Users can also download the calculated index prices as a CSV file.
+This RShiny application(https://kapilnaik.shinyapps.io/Index_Price_Calculator/) allows users to select and import a dataset(Sample_Data.csv can be used for testing the app), calculate the index price based on specific rules, and display the results as a table and chart. Users can also download the calculated index prices as a CSV file.
+Application link:- https://kapilnaik.shinyapps.io/Index_Price_Calculator/
+Data to be used for testing:- Sample_Data.csv
 
 ### Features
 - **File Import:** Users can upload a CSV file containing raw deal data.
