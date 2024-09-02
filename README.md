@@ -20,13 +20,10 @@ Data to be used for testing:- Sample_Data.csv
 2. **Import Data:**
    - Click the "Choose CSV File" button to upload your dataset. The CSV file should include columns like `DealDate`, `DeliveryDate`, `DeliveryLocation`, `Price`, and `Volume`.
 
-3. **Calculate Index Price:**
-   - After uploading the file, click the "Calculate Index Price" button. The application will filter and calculate the index prices based on the defined rules.
+3. **View Results:**
+   - The calculated index prices will be displayed in a table in main panel. A chart visualizing the indices over time will also be displayed.
 
-4. **View Results:**
-   - The calculated index prices will be displayed in a table below the button. A chart visualizing the indices over time will also be displayed.
-
-5. **Download CSV:**
+4. **Download CSV:**
    - To download the calculated index prices, click the "Download CSV" button. This will save the data to your local machine as a CSV file.
 
 ## Index Price Calculation Rules
